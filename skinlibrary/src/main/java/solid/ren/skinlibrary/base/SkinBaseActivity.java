@@ -2,8 +2,8 @@ package solid.ren.skinlibrary.base;
 
 import android.os.Build;
 import android.os.Bundle;
-import android.support.v4.view.LayoutInflaterCompat;
-import android.support.v7.app.AppCompatActivity;
+import androidx.core.view.LayoutInflaterCompat;
+import androidx.appcompat.app.AppCompatActivity;
 import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;

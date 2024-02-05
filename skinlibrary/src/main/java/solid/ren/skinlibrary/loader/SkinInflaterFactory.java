@@ -3,8 +3,8 @@ package solid.ren.skinlibrary.loader;
 import android.app.Activity;
 import android.content.Context;
 import android.content.res.TypedArray;
-import android.support.v7.app.AppCompatActivity;
-import android.support.v7.app.AppCompatDelegate;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatDelegate;
 import android.util.AttributeSet;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -22,8 +22,6 @@ import solid.ren.skinlibrary.attr.base.DynamicAttr;
 import solid.ren.skinlibrary.attr.base.SkinAttr;
 import solid.ren.skinlibrary.utils.SkinL;
 import solid.ren.skinlibrary.utils.SkinListUtils;
-
-import static android.R.attr.textColor;
 
 /**
  * Created by _SOLID

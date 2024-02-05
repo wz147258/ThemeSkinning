@@ -10,8 +10,8 @@ import android.content.res.Resources;
 import android.graphics.Typeface;
 import android.graphics.drawable.Drawable;
 import android.os.AsyncTask;
-import android.support.annotation.RestrictTo;
-import android.support.v4.content.ContextCompat;
+import androidx.annotation.RestrictTo;
+import androidx.core.content.ContextCompat;
 
 import java.io.File;
 import java.io.IOException;

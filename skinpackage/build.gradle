@@ -1,8 +1,7 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 25
-    buildToolsVersion '26.0.2'
+    compileSdkVersion 30
     signingConfigs {
         release {
             keyAlias 'skinpackage'
@@ -14,7 +13,7 @@ android {
     defaultConfig {
         applicationId "solid.ren.skinpackage"
         minSdkVersion 14
-        targetSdkVersion 24
+        targetSdkVersion 30
         versionCode 1
         versionName "1.0"
     }

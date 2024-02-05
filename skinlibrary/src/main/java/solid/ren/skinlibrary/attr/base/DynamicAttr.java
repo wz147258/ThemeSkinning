@@ -1,6 +1,6 @@
 package solid.ren.skinlibrary.attr.base;
 
-import android.support.annotation.AnyRes;
+import androidx.annotation.AnyRes;
 
 /**
  * Created by _SOLID
